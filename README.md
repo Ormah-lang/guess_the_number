@@ -1,2 +1,3 @@
 # guess_the_number
-In this game, the user is assigned a number of chances to guess a number between a range of numbers
+
+In this game, the user inputs twon numbers. A lucky number is generated using randint method and the user is given 3 chances to guess what the lucky number is
